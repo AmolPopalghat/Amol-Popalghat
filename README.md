@@ -1,6 +1,5 @@
 <div align="center">
   <h1>🚀 AI/ML Engineer & Data Scientist</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer;Machine+Learning+Specialist;Data+Science+Expert;AI+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,8 +10,8 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in bui
 
 - 🔭 Currently working on **Production ML Systems & AI Applications**
 - 🌱 Learning **MLOps, Model Optimization, and Edge AI**
-- 👯 Looking to collaborate on **Open Source AI/ML Projects**
-- 📫 Reach me at: **[your-email@example.com]**
+- 👯 Looking to collaborate on **AI/ML Projects**
+- 📫 Reach me at: **amolpopalghat10@gmail.com**
 - 📄 Portfolio: **[yourportfolio.com]**
 
 ---
