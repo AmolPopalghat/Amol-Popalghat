@@ -1,191 +1,184 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Data%20Scientist%20%26%20AI%20Engineer&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Specialist;Data+Science+Consultant;AI+Solutions+Architect" alt="Professional Roles" />
+  <h1>🚀 AI/ML Engineer & Data Scientist</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer;Machine+Learning+Specialist;Data+Science+Expert;AI+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👨‍💼 Professional Summary
+## 👨‍💻 About Me
 
-I am a seasoned **Data Scientist** and **AI/ML Engineer** with expertise in developing scalable machine learning solutions and extracting actionable insights from complex datasets. My focus lies in implementing production-ready AI systems that drive business value through data-driven decision making.
+I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in building scalable machine learning solutions and extracting actionable insights from complex datasets. I specialize in deep learning, computer vision, natural language processing, and MLOps implementations.
 
-**🎯 Current Focus:** MLOps, Computer Vision, Natural Language Processing, and Predictive Analytics
-
-**📍 Location:** [Your Location] | **📧 Email:** [your.email@domain.com] | **🌐 Portfolio:** [yourportfolio.com]
-
----
-
-## 🛠️ Technical Expertise
-
-### Core Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-</div>
-
-### Machine Learning & AI
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</div>
-
-### Data Engineering & MLOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-</div>
-
-### Cloud Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</div>
+- 🔭 Currently working on **Production ML Systems & AI Applications**
+- 🌱 Learning **MLOps, Model Optimization, and Edge AI**
+- 👯 Looking to collaborate on **Open Source AI/ML Projects**
+- 📫 Reach me at: **[your-email@example.com]**
+- 📄 Portfolio: **[yourportfolio.com]**
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Technical Skills & Technologies
 
+### Programming Languages
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
 </div>
 
+### AI/ML Frameworks & Libraries
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
+  <img width="12" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40" alt="Plotly" />
 </div>
+
+### Computer Vision & NLP
+<div align="center">
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="40" alt="OpenCV" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/NLTK_logo.png" height="40" alt="NLTK" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yolo/yolo-original.svg" height="40" alt="YOLO" />
+</div>
+
+### Cloud & MLOps
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img width="12" />
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" alt="MLflow" />
+  <img width="12" />
+  <img src="https://www.kubeflow.org/docs/images/logos/kubeflow-logo.svg" height="40" alt="Kubeflow" />
+</div>
+
+### Data Engineering & Analytics
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache Airflow" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" height="40" alt="Apache Kafka" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</div>
+
+### Development Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="40" alt="Streamlit" />
+  <img width="12" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+---
+
+## 🏆 Professional Achievements
+
+### Machine Learning Model Performance
+| Model Type | Use Case | Accuracy | Metric | Status |
+|------------|----------|----------|---------|--------|
+| **Deep Neural Network** | Image Classification | 94.2% | F1-Score: 0.92 | 🟢 Production |
+| **BERT-based Model** | Sentiment Analysis | 92.8% | Precision: 0.91 | 🟢 Production |
+| **LSTM Network** | Time Series Forecasting | 87.5% | MAE: 0.032 | 🟡 Testing |
+| **Computer Vision** | Object Detection | 89.3% | mAP: 0.85 | 🟢 Production |
+| **Ensemble Model** | Fraud Detection | 96.1% | AUC: 0.94 | 🟢 Production |
+
+### Industry Impact
+- 🎯 **Reduced operational costs by 35%** through automated ML pipelines
+- 📈 **Improved prediction accuracy by 28%** in production systems
+- 🚀 **Deployed 15+ ML models** to production environments
+- 💡 **Led data science initiatives** impacting 500K+ users
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 [Enterprise Fraud Detection System](https://github.com/yourusername/fraud-detection-system)
-**Technologies:** `Python` `XGBoost` `Apache Kafka` `Docker` `AWS`
+### 🤖 [Production ML Pipeline for E-commerce](https://github.com/yourusername/ml-pipeline-ecommerce)
+**Technologies:** Python, TensorFlow, Docker, Kubernetes, AWS
+- Built end-to-end ML pipeline processing 1M+ transactions daily
+- Implemented real-time recommendation system with 94% accuracy
+- Automated model retraining and deployment using MLOps practices
+- Reduced recommendation response time by 60%
 
-A real-time fraud detection system processing millions of transactions daily with 99.2% accuracy. Implemented advanced feature engineering and model ensemble techniques to reduce false positives by 40%.
+### 🔍 [Computer Vision for Medical Imaging](https://github.com/yourusername/medical-cv-analysis)
+**Technologies:** PyTorch, OpenCV, FastAPI, Docker
+- Developed deep learning model for medical image analysis
+- Achieved 92% accuracy in disease detection from X-ray images
+- Built RESTful API for real-time inference
+- Deployed on cloud infrastructure with auto-scaling
 
-**Key Achievements:**
-- Reduced fraud losses by $2.3M annually
-- Achieved sub-100ms inference latency
-- Deployed on AWS with auto-scaling capabilities
+### 📊 [NLP-based Document Intelligence](https://github.com/yourusername/document-intelligence)
+**Technologies:** BERT, Transformers, spaCy, Streamlit
+- Created intelligent document processing system
+- Implemented named entity recognition and sentiment analysis
+- Built interactive web application for document analysis
+- Processed 10K+ documents with 89% accuracy
 
-### 🧠 [Medical Image Analysis Platform](https://github.com/yourusername/medical-image-analysis)
-**Technologies:** `PyTorch` `OpenCV` `FastAPI` `PostgreSQL` `React`
-
-Deep learning solution for automated medical image analysis supporting radiologists in diagnostic workflows. Trained on 500K+ medical images with 94% diagnostic accuracy.
-
-**Key Achievements:**
-- Reduced diagnostic time by 60%
-- Integrated with PACS systems
-- FDA-compliant data processing pipeline
-
-### 📈 [Predictive Analytics Dashboard](https://github.com/yourusername/predictive-analytics-dashboard)
-**Technologies:** `Python` `Streamlit` `Plotly` `MongoDB` `Apache Airflow`
-
-Interactive dashboard providing real-time business intelligence and predictive insights. Features automated ETL pipelines and machine learning models for demand forecasting.
-
-**Key Achievements:**
-- Improved demand forecasting accuracy by 35%
-- Automated 80% of manual reporting processes
-- Serves 500+ daily active users
-
-### 🎯 [Customer Segmentation & Personalization](https://github.com/yourusername/customer-segmentation)
-**Technologies:** `Python` `Scikit-learn` `Apache Spark` `Elasticsearch` `Tableau`
-
-Advanced customer segmentation system using unsupervised learning techniques. Implemented behavioral clustering and personalized recommendation engines.
-
-**Key Achievements:**
-- Increased customer retention by 25%
-- Improved conversion rates by 18%
-- Processes 10M+ customer records daily
+### 🎯 [Time Series Forecasting Platform](https://github.com/yourusername/time-series-forecasting)
+**Technologies:** Prophet, LSTM, Streamlit, PostgreSQL
+- Developed forecasting models for business metrics
+- Implemented multiple algorithms for comparison
+- Created interactive dashboard for stakeholders
+- Improved forecast accuracy by 35% over baseline
 
 ---
 
-## 🎓 Certifications & Education
+## 📚 Certifications & Education
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Certification</th>
-      <th>Issuing Organization</th>
-      <th>Year</th>
-    </tr>
-    <tr>
-      <td>🏆 AWS Certified Machine Learning - Specialty</td>
-      <td>Amazon Web Services</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🏆 Google Cloud Professional Data Engineer</td>
-      <td>Google Cloud</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🏆 Microsoft Azure AI Engineer Associate</td>
-      <td>Microsoft</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>🏆 TensorFlow Developer Certificate</td>
-      <td>Google</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>🏆 Kaggle Competitions Expert</td>
-      <td>Kaggle</td>
-      <td>2023</td>
-    </tr>
-  </table>
-</div>
+### Professional Certifications
+- 🏆 **AWS Certified Machine Learning - Specialty** (2024)
+- 🏆 **Google Cloud Professional Data Engineer** (2024)
+- 🏆 **Microsoft Azure AI Engineer Associate** (2024)
+- 🏆 **TensorFlow Developer Certificate** (2023)
+- 🏆 **Databricks Certified Data Scientist** (2023)
 
-**📚 Relevant Coursework:**
-- Deep Learning Specialization - DeepLearning.AI
-- Machine Learning Engineering for Production (MLOps) - DeepLearning.AI
-- CS229: Machine Learning - Stanford University
-- CS231n: Convolutional Neural Networks - Stanford University
+### Specialized Training
+- 📘 **Deep Learning Specialization** - DeepLearning.AI (Coursera)
+- 📘 **MLOps Specialization** - Duke University (Coursera)
+- 📘 **Computer Vision Nanodegree** - Udacity
+- 📘 **Natural Language Processing** - Stanford University
+- 📘 **Advanced Machine Learning** - Higher School of Economics
 
----
-
-## 📈 Industry Impact & Achievements
-
-### Model Performance Metrics
-| Model Architecture | Domain | Accuracy | Precision | Recall | F1-Score |
-|-------------------|---------|----------|-----------|--------|----------|
-| ResNet-50 + Transfer Learning | Medical Imaging | 94.2% | 0.93 | 0.92 | 0.925 |
-| BERT-Large Fine-tuned | Sentiment Analysis | 92.8% | 0.91 | 0.90 | 0.905 |
-| XGBoost Ensemble | Fraud Detection | 99.2% | 0.98 | 0.97 | 0.975 |
-| LSTM + Attention | Time Series Forecasting | 88.5% | 0.87 | 0.86 | 0.865 |
-
-### Business Impact
-- **$5.2M+ in cost savings** through automation and optimization
-- **40% reduction** in manual data processing time
-- **25% improvement** in customer satisfaction scores
-- **Published 3 research papers** in peer-reviewed journals
-
----
-
-## 📝 Recent Publications & Talks
-
-### Publications
-1. **"Scalable Fraud Detection in Financial Services"** - IEEE Transactions on Neural Networks (2024)
-2. **"Deep Learning Applications in Medical Image Analysis"** - Journal of Medical AI (2023)
-3. **"Efficient MLOps Practices for Production Systems"** - ACM Computing Surveys (2023)
-
-### Conference Presentations
-- **PyData Global 2024** - "Building Robust ML Pipelines at Scale"
-- **AI Summit 2024** - "Real-world Applications of Computer Vision"
-- **MLOps World 2023** - "From Notebook to Production: A Practitioner's Guide"
+### Research & Publications
+- 📄 **"Optimizing Deep Learning Models for Production"** - IEEE Conference (2024)
+- 📄 **"Scalable MLOps Architecture for Enterprise"** - ACM Journal (2023)
+- 📄 **"Computer Vision Applications in Healthcare"** - Nature Digital Medicine (2023)
 
 ---
 
@@ -201,65 +194,51 @@ Advanced customer segmentation system using unsupervised learning techniques. Im
   <a href="https://medium.com/@yourhandle">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://scholar.google.com/citations?user=yourprofile">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://orcid.org/your-orcid">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  <a href="https://huggingface.co/yourprofile">
+    <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
 </div>
 
 ---
 
-## 📄 Latest Blog Posts
+## 📝 Latest Publications & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Ready ML Systems: Best Practices and Lessons Learned](https://medium.com/@yourhandle/production-ml-systems)
-- [The Future of MLOps: Trends and Technologies to Watch](https://medium.com/@yourhandle/future-of-mlops)
-- [Ethical AI: Ensuring Fairness in Machine Learning Models](https://medium.com/@yourhandle/ethical-ai-fairness)
-- [Data Privacy in Machine Learning: A Comprehensive Guide](https://medium.com/@yourhandle/data-privacy-ml)
+- [Optimizing BERT Models for Production Deployment](https://medium.com/@yourhandle/optimizing-bert-production)
+- [Building Scalable ML Pipelines with Apache Airflow](https://medium.com/@yourhandle/scalable-ml-pipelines)
+- [Computer Vision Best Practices for Medical Imaging](https://medium.com/@yourhandle/cv-medical-imaging)
+- [MLOps: From Prototype to Production](https://medium.com/@yourhandle/mlops-prototype-production)
+- [Time Series Forecasting with Deep Learning](https://medium.com/@yourhandle/time-series-deep-learning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🎯 Current Objectives
+## 🎯 Current Focus & Goals
 
-```python
-class ProfessionalGoals:
-    def __init__(self):
-        self.current_focus = {
-            "research": "Federated Learning for Healthcare Applications",
-            "development": "Automated ML Pipeline Optimization",
-            "collaboration": "Open Source Contributions to MLOps Tools",
-            "mentorship": "Supporting Junior Data Scientists"
-        }
-        
-        self.upcoming_projects = [
-            "Multi-modal AI System for Content Analysis",
-            "Scalable Real-time Recommendation Engine",
-            "Advanced NLP Pipeline for Document Processing",
-            "Computer Vision Solution for Manufacturing QA"
-        ]
-    
-    def get_2025_roadmap(self):
-        return {
-            "Q1": "Complete Advanced MLOps Certification",
-            "Q2": "Launch Open Source ML Framework",
-            "Q3": "Publish Research on Efficient Model Training",
-            "Q4": "Establish AI Consulting Practice"
-        }
-```
+### 2025 Objectives
+- 🔬 **Research**: Advancing multimodal AI applications
+- 🚀 **Innovation**: Developing edge AI solutions
+- 🌐 **Community**: Contributing to open-source ML projects
+- 📚 **Education**: Mentoring junior data scientists
+- 🏆 **Recognition**: Publishing in top-tier conferences
+
+### Active Research Areas
+- **Large Language Models** optimization and deployment
+- **Computer Vision** for autonomous systems
+- **MLOps** and model lifecycle management
+- **Edge AI** for real-time applications
+- **Explainable AI** for critical decision-making
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=2E86AB&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <strong>"Transforming data into intelligent solutions that drive business success"</strong>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **"Transforming Data into Intelligence, Building the Future with AI"**
 </div>
