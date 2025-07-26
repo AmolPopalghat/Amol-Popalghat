@@ -12,7 +12,7 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in bui
 - 🌱 Learning **MLOps, Model Optimization, and Gen AI**
 - 👯 Looking to collaborate on **AI/ML Projects**
 - 📫 Reach me at: **amolpopalghat10@gmail.com**
-- 📄 Portfolio: **[yourportfolio.com]**
+<!-- 📄 Portfolio: **[yourportfolio.com]** -->
 
 ---
 
