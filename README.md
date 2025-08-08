@@ -50,20 +50,20 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in bui
 <div align="center">
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" height="40" alt="OpenCV" />
   <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
-  <img width="12" />
+<!--   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" /> -->
+<!--   <img width="12" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/NLTK_logo.png" height="40" alt="NLTK" />
   <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yolo/yolo-original.svg" height="40" alt="YOLO" />
+  <img width="12" />
 </div>
 
 ### Cloud & MLOps
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
