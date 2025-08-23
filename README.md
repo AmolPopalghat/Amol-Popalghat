@@ -8,8 +8,7 @@
 
 I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in building scalable machine learning solutions and extracting actionable insights from complex datasets. I specialize in deep learning, computer vision, natural language processing, and MLOps implementations.
 
-- 🔭 Currently working on **Production ML Systems & AI Applications**
-- 🌱 Learning **MLOps, Model Optimization, and Gen AI**
+- 🌱 Learning **MLOps and Gen AI**
 - 👯 Looking to collaborate on **AI/ML Projects**
 - 📫 Reach me at: **amolpopalghat10@gmail.com**
 <!-- 📄 Portfolio: **[yourportfolio.com]** -->
